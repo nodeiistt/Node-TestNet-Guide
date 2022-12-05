@@ -1,29 +1,29 @@
 #!/bin/bash
 clear
-echo "==================================================================="
+echo "==========================================================================================="
 echo -e "\e[92m"
-echo  "   ____          ____       _                    ";
-echo  "  | __ )  __ _  |  _ \ __ _| |_ ___ _ __   __ _  ";
-echo  "  |  _ \ / _' | | |_) / _' | __/ _ \ '_ \ / _' | ";
-echo  "  | |_) | (_| | |  __/ (_| | ||  __/ | | | (_| | ";
-echo  "  |____/ \__, | |_|   \__,_|\__\___|_| |_|\__, | ";
-echo  "         |___/                            |___/  ";
+echo  "   _______                                                                             ";
+echo  "  |  _____|   ________    __     __    ________    ________    _________    ________   ";
+echo  "  |  |____   |_____   |  |  |   |  |  |_____   |  |_____   |  |   ___   |  |_____   |  ";
+echo  "  |____   |   _____|  |  |  |   |  |   _    |  |   _____|  |  |  |   |  |   _____|  |  ";
+echo  "   ____|  |  |   ..   |  |  |___|  |  / \___|  |  |   ..   |  |  |   |  |  |   ..   |  ";
+echo  "  |_______|  |________|  |_________|  \________|  |________|  |__|   |__|  |________|  ";
 echo -e "\e[0m"
-echo "===================================================================" 
+echo "===========================================================================================" 
 
 echo -e '\e[36mGarapan :\e[39m' Gitopia
-echo -e '\e[36mAuthor :\e[39m' Bang Pateng
-echo -e '\e[36mTelegram Group :\e[39m' @bangpateng_group
-echo -e '\e[36mTelegram Channel :\e[39m' @bangpateng_airdrop
-echo -e '\e[36mYoutube :\e[39m' Bang Pateng
-echo -e '\e[36mWebsite :\e[39m' www.bangpatengnode.site
+echo -e '\e[36mAuthor :\e[39m' Saujana
+echo -e '\e[36mTelegram :\e[39m' @SaujanaOK
+echo -e '\e[36mTwitter :\e[39m' @SaujanaCrypto
+echo -e '\e[36mDiscord :\e[39m' DEFFAN#0372
+echo -e '\e[36mGithub :\e[39m' https://github.com/SaujanaOK/
 echo "======================================="
 
 sleep 2
 
 # set vars
 if [ ! $NODENAME ]; then
-	read -p "Enter node name: " NODENAME
+	read -p "Enter your node name: " NODENAME
 	echo 'export NODENAME='$NODENAME >> $HOME/.bash_profile
 fi
 GITOPIA_PORT=41
