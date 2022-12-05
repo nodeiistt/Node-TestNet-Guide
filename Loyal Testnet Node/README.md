@@ -210,5 +210,6 @@ sudo rm /etc/systemd/system/loyald* -rf
 sudo rm $(which loyald) -rf
 sudo rm $HOME/.loyal* -rf
 sudo rm $HOME/loyal* -rf
+sudo rm $HOME/loyal.sh* -rf
 sed -i '/LYL_/d' ~/.bash_profile
 ```
