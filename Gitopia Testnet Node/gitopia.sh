@@ -17,7 +17,7 @@ echo -e '\e[36mTelegram     :\e[39m' @SaujanaOK
 echo -e '\e[36mTwitter      :\e[39m' @SaujanaCrypto
 echo -e '\e[36mDiscord      :\e[39m' DEFFAN#0372
 echo -e '\e[36mGithub       :\e[39m' https://github.com/SaujanaOK/
-echo "======================================="
+echo "===========================================================================================" 
 
 sleep 2
 
@@ -34,12 +34,12 @@ echo "export GITOPIA_CHAIN_ID=gitopia-janus-testnet-2" >> $HOME/.bash_profile
 echo "export GITOPIA_PORT=${GITOPIA_PORT}" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
-echo '================================================='
-echo -e "Your node name: \e[1m\e[32m$NODENAME\e[0m"
-echo -e "Your wallet name: \e[1m\e[32m$WALLET\e[0m"
-echo -e "Your chain name: \e[1m\e[32m$GITOPIA_CHAIN_ID\e[0m"
-echo -e "Your port: \e[1m\e[32m$GITOPIA_PORT\e[0m"
-echo '================================================='
+echo '==========================================================================================='
+echo -e "Your node name       : \e[1m\e[32m$NODENAME\e[0m"
+echo -e "Your wallet name     : \e[1m\e[32m$WALLET\e[0m"
+echo -e "Your chain name      : \e[1m\e[32m$GITOPIA_CHAIN_ID\e[0m"
+echo -e "Your port            : \e[1m\e[32m$GITOPIA_PORT\e[0m"
+echo '==========================================================================================='
 sleep 2
 
 echo -e "\e[1m\e[32m1. Updating packages... \e[0m" && sleep 1
