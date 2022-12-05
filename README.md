@@ -1,4 +1,4 @@
-# Welcome to Node-TestNet-Guide
+Welcome to Node-TestNet-Guide
 
-## Posted by:
+Posted by:
 Saujana
