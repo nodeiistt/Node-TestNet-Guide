@@ -1,4 +1,4 @@
-# Json RPC Sample for Task 4 Inery Blockchain
+# Inery Task 4 : Json RPC Sample
 A Sample code to call JSON RPC on Inery Blockchain
 
 ## Getting Started
