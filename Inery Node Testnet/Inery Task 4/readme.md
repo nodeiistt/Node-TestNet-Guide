@@ -74,6 +74,9 @@ JSON RPC Sample code are available at [example](https://github.com/alteregogi/in
 
 5. Edit ```.env``` file with your information
 
+   ```
+   nano .env
+   ```
 
 
 ## Usage
