@@ -11,13 +11,13 @@ echo  "   |_______|  |________|  |_________|  \________|  |________|  |__|   |__
 echo -e "\e[0m"
 echo "===========================================================================================" 
 
-echo -e '\e[36mProject      :\e[39m' Loyal Testnet
+echo -e '\e[36mGarapan      :\e[39m' Loyal Testnet
 echo -e '\e[36mAuthor       :\e[39m' Saujana
 echo -e '\e[36mTelegram     :\e[39m' @SaujanaOK
 echo -e '\e[36mTwitter      :\e[39m' @SaujanaCrypto
 echo -e '\e[36mDiscord      :\e[39m' DEFFAN#0372
 echo -e '\e[36mGithub       :\e[39m' https://github.com/SaujanaOK/
-echo "======================================="
+echo "===========================================================================================" 
 
 sleep 2
 
