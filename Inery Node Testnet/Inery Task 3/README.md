@@ -1,4 +1,4 @@
-# Inery create CRUD contract
+# Inery Task 3 : Create CRUD Contract
 
 ## Official docs
 - [Inery write contract](https://docs.inery.io/docs/category/contract-write)
