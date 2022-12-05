@@ -187,20 +187,24 @@ loyald tx distribution withdraw-rewards $LYL_VALOPER_ADDRESS --from=$LYL_WALLET 
 ### Ubah Nama Validator:
 ```
 loyald tx staking edit-validator \
---moniker=NEWNODENAME \
---chain-id=$LYL_ID \
---from=$LYL_WALLET
-```
-### Keluar Dari Penjara (Dibebaskan):
-```
-loyald tx staking edit-validator \
-  --new-moniker=ISI NAMA NODE KALIAN \
-  --identity="ISI PGP KEY AKUN KEYBASE" \
-  --website="https://t.me/bangpateng_group" \
+  --new-moniker="Your Name" \
+  --identity="PGP from keybase.io" \
+  --website="You site / your twitter" \
   --chain-id=$LYL_ID \
-  --from=ISI ADDRESS KALIAN \
-  --fees=250ulyl
+  --from=$LYL_WALLET \
+  --fees=5000ulyl
+  --gas-prices 1ulyl 
+
+```
+### Unjail:
+```
+loyald tx slashing unjail \
+ --broadcast-mode=block \
+ --from=$LYL_WALLET \
+ --chain-id=$LYL_ID \
+  --fees=5000ulyl
   --gas-prices 1ulyl
+
 ```
 ### Untuk Menghapus Node Sepenuhnya:
 ```
