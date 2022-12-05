@@ -47,6 +47,7 @@ mkdir -p $HOME/inrcrud
 ```
 
 #### Write code
+- Copy semua gak ada yang diedit lagi langsung aja paste
 
 ```
 sudo tee $HOME/inrcrud/inrcrud.cpp >/dev/null <<EOF
