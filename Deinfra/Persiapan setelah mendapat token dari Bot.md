@@ -27,19 +27,12 @@ wget https://tea.thepower.io/teaclient
 chmod +x teaclient
 ```
 
-### Membuat Folder Baru
-
-```
-mkdir {db,log}
-mkdir /root/log/deinfra; mkdir /root/db/deinfra
-```
-
 ### Download Docker Images
 
 ```
 docker pull thepowerio/tpnode
 ```
 
-{% hint style="info" %}
+
 <mark style="color:blue;">**Note**</mark>: Baru bisa mulai setelah mendapat Chain Token dari mereka
-{% endhint %}
+
