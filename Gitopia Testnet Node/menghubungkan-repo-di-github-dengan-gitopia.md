@@ -20,15 +20,15 @@ Nama Bebas
 
 ### 4. Klik Setting
 
-<figure><img src="../.gitbook/assets/masuk ke setting.png" alt=""><figcaption></figcaption></figure>
+![images](./images/masuk%20ke%20setting.png)
 
 ### 5. Scroll dan Masuk ke Secret -> Action
 
-<figure><img src="../.gitbook/assets/secret action.png" alt=""><figcaption></figcaption></figure>
+![images](./images/secret%20action.png)
 
 ### 6. Pilih New Secret
 
-<figure><img src="../.gitbook/assets/new secret.png" alt=""><figcaption></figcaption></figure>
+![images](./images/new%20secret.png)
 
 ### 7. Beri nama dan masukan isi
 
@@ -40,29 +40,29 @@ GITOPIA_WALLET
 
 * Isi menggunakan data dari wallet yang di download dari tutor sebelumnya. [Tutor Sebelumnya](https://beritacryptoo.gitbook.io/node/gitopia/membuat-repo-dari-0)
 
-<figure><img src="../.gitbook/assets/isi secret.png" alt=""><figcaption></figcaption></figure>
+![images](./images/isi%20secret.png)
 
 Gitu
 
-<figure><img src="../.gitbook/assets/Gitu.png" alt=""><figcaption></figcaption></figure>
+![images](./images/Gitu.png)
 
 ### 8. Lanjut ke Action
 
-<figure><img src="../.gitbook/assets/Pilih Action.png" alt=""><figcaption></figcaption></figure>
+![images](./images/Pilih%20Action.png)
 
 ### 9. Pilih Simple workflow
 
-<figure><img src="../.gitbook/assets/pilih simple.png" alt=""><figcaption></figcaption></figure>
+![images](./images/pilih%20simple.png)
 
 **a. Ganti nama file .yml**
 
 Dari `blank.yml`
 
-<figure><img src="../.gitbook/assets/ganti menjadi.png" alt=""><figcaption></figcaption></figure>
+![images](./images/ganti%20menjadi.png)
 
 Menjadi `gitopia-mirror.yml`
 
-<figure><img src="../.gitbook/assets/gini.png" alt=""><figcaption></figcaption></figure>
+![images](./images/gini.png)
 
 **b. Hapus isinya**
 
@@ -95,23 +95,23 @@ jobs:
 
 `link-repo-gitopia-mu` ganti dengan link dari sini
 
-<figure><img src="../.gitbook/assets/url ini.png" alt=""><figcaption></figcaption></figure>
+![images](./images/url%20ini.png)
 
 Isi file `.yml` sekarang
 
-<figure><img src="../.gitbook/assets/Isi yaml.png" alt=""><figcaption></figcaption></figure>
+![images](./images/Isi%20yaml.png)
 
 **d. Klik Start Commit**
 
-<figure><img src="../.gitbook/assets/start commit.png" alt=""><figcaption></figcaption></figure>
+![images](./images/start%20commit.png)
 
 ### **10. Kembali ke web gitopia**
 
 ### **11. Refresh dan Cek hasilnya**
 
-<figure><img src="../.gitbook/assets/Selesai.png" alt=""><figcaption></figcaption></figure>
+![images](./images/Selesai.png)
 
-<figure><img src="../.gitbook/assets/Selesaiiii.png" alt=""><figcaption></figcaption></figure>
+![images](./images/Selesaiiii.png)
 
 
 
