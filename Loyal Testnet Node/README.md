@@ -20,7 +20,7 @@ Koneksi Internet yang persisten (lalu lintas minimum 10Mbps selama testnet - set
 
 ### ✅️ Website Explorer
 
-https://ping-pub.joinloyal.io/loyal/staking
+https://ping-pub.joinloyal.io/loyal/
 
 ### ✅️ Docs Official
 
@@ -173,15 +173,15 @@ loyald tx gov vote 1 yes --from $LYL_WALLET --chain-id=$LYL_ID
 
 Proses Delegasi:
 ```
-loyald tx staking delegate $LYL_VALOPER_ADDRESS 10000000ulyl --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 250ulyl
+loyald tx staking delegate $LYL_VALOPER_ADDRESS 10000000ulyl --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 5000ulyl
 ```
 ### Mentransfer ulang bagian dari validator ke validator lain:
 ```
-loyald tx staking redelegate <srcValidatorAddress> <destValidatorAddress> 10000000ulyl --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 250ulyl
+loyald tx staking redelegate <srcValidatorAddress> <destValidatorAddress> 10000000ulyl --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 5000ulyl
 ```
 ### Tarik semua hadiah:
 ```
-loyald tx distribution withdraw-all-rewards --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 250ulyl
+loyald tx distribution withdraw-all-rewards --from=$LYL_WALLET --chain-id=$LYL_ID --gas=auto --fees 5000ulyl
 ```
 ### Tarik hadiah dengan komisi:
 ```
