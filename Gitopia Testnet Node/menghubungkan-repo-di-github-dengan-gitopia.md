@@ -14,7 +14,7 @@
 
 Nama Bebas
 
-<figure><img src="../.gitbook/assets/Connect Github.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/Connect Github.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Masuk ke repository Github mu yang ingin dihubungkan
 
