@@ -22,11 +22,19 @@
 wget -O source.sh https://raw.githubusercontent.com/SaujanaOK/Node-TestNet-Guide/main/Source/Source.sh && chmod +x source.sh && ./source.sh
 ```
 
-## Pasca Instalasi
+##  Langkah-Langkah Pasca-Instalasi
+
+Saat instalasi selesai, silakan muat variabel ke dalam sistem
+```
+source $HOME/.bash_profile
+```
+
 Selanjutnya Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah di bawah ini untuk memeriksa status sinkronisasi
-```console
+
+```
 sourced status 2>&1 | jq .SyncInfo
 ```
+
 ## SnapShot 28.10.22 (0.1 GB) block height --> 2981026 by [obajay](https://github.com/obajay/nodes-Guides/tree/main/Source#snapshot-281022-01-gb-block-height----2981026)
 ```
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
