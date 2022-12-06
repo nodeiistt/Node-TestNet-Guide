@@ -11,6 +11,7 @@ ufw enable
 ```
 
 ### Langkah 2 : run ulang Chain
+Ulangi command chain yang kamu dapatkan
 ```
 ./teaclient -n nickname aaaaa.bbbbb
 ```
