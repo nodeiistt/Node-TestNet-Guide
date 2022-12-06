@@ -14,7 +14,7 @@
 
 Nama Bebas
   
-![img](./iages/Connect Github.png)
+![img](./images/Connect Github.png)
 
 ### 3. Masuk ke repository Github mu yang ingin dihubungkan
 
