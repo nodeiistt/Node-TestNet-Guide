@@ -65,6 +65,7 @@ Catatan : EMAILKAMU - isi dengan emailmu lalu
 ### Langkah 7 : install SSL
 
 ```
+source $HOME/.bashrc
 acme.sh --server letsencrypt --issue --standalone  -d your_node.example.com
 ```
 
