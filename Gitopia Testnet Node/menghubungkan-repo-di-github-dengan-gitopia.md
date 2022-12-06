@@ -1,6 +1,7 @@
 # Menghubungkan Repo di Github dengan Gitopia
 
-- [Official Docs] (https://docs.gitopia.com/mirror)
+- [Official Docs](https://docs.gitopia.com/mirror)
+- [Official Docs](https://docs.inery.io/)
 
 <mark style="color:red;"><mark style="color:orange;"><mark style="color:green;">**Pastikan sudah memiliki akun GitHub**<mark style="color:green;"><mark style="color:orange;"></mark>
 
