@@ -19,7 +19,7 @@
 
 ## Install Otomatis
 ```console
-wget -O source.sh https://raw.githubusercontent.com/xsons/TestnetNode/main/Source/source.sh && chmod +x source.sh && ./source.sh
+wget -O source.sh https://raw.githubusercontent.com/SaujanaOK/Node-TestNet-Guide/main/Source/Source.sh && chmod +x source.sh && ./source.sh
 ```
 
 ## Pasca Instalasi
