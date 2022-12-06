@@ -53,6 +53,8 @@ mkdir -p /opt/thepower/db/cert
 ```
 sudo -i
 apt-get install socat
+```
+```
 curl https://get.acme.sh | sh -s email=EMAILKAMU
 source $HOME/.bashrc
 ```
