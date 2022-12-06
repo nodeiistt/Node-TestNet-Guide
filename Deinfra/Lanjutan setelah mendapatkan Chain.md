@@ -63,10 +63,12 @@ Catatan : EMAILKAMU - isi dengan emailmu lalu
 
 #### Restart System dengan tanpa close terminal
 
-untuk Ubuntu 20 :
+- untuk Ubuntu 20 :
+
 ```sudo systemctl restart sshd```
 
-untuk Ubuntu 22 :
+- untuk Ubuntu 22 :
+
 ```sudo systemctl restart ssh```
 
   
