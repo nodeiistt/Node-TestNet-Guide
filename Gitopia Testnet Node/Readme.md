@@ -32,7 +32,7 @@ Anda dapat mengatur gitopia fullnode Anda dalam beberapa menit dengan menggunaka
 wget -O gitopia.sh https://raw.githubusercontent.com/SaujanaOK/Node-TestNet-Guide/main/Gitopia%20Testnet%20Node/gitopia.sh && chmod +x gitopia.sh && ./gitopia.sh
 ```
 
-##  Pasang instalasi
+##  Langkah-Langkah Pasca-Instalasi
 
 Saat instalasi selesai, silakan muat variabel ke dalam sistem
 ```
