@@ -13,8 +13,8 @@
 ### 2. Create a Repository di Gitopia
 
 Nama Bebas
-
-<figure><img src="../images/Connect Github.png" alt=""><figcaption></figcaption></figure>
+  
+![img](./iages/Connect Github.png)
 
 ### 3. Masuk ke repository Github mu yang ingin dihubungkan
 
