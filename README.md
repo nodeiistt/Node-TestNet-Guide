@@ -1,4 +1,4 @@
-Welcome to Node-TestNet-Guide
+Welcome to Node TestNet Guide
 
 - [Twitter](https://twitter.com/SaujanaCrypto)
 - [Discord](https://discordapp.com/users/815456507113504789)
