@@ -63,7 +63,15 @@ Catatan : EMAILKAMU - isi dengan emailmu lalu
 - close terminal
 - login lagi
 - dan lanjut install SSL
+- atau bisa juga Restart System dengan tanpa close terminal
 
+untuk Ubuntu 20 :
+```sudo systemctl restart sshd```
+
+untuk Ubuntu 22 :
+```sudo systemctl restart ssh```
+
+  
 ### Langkah 7 : install SSL
 
 ```
