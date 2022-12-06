@@ -14,7 +14,7 @@
 
 Nama Bebas
   
-![images](./images/Connect Github.png)
+![images](./images/Connect%20Github.png)
 
 ### 3. Masuk ke repository Github mu yang ingin dihubungkan
 
