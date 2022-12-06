@@ -42,3 +42,13 @@ Saat rebutan, ada baiknya jalankan di screen, karna untuk menunggu proses minum 
 ```
 screen -S tea
 ```
+```
+./teaclient -n nickname aaaaa.bbbbb
+```
+
+
+- nickname rubah dengan username berisi huruf dan angka saja yang diperbolehkan, minimal 4 karakter dan maksimal 16 karakter, dengan tanpa spasi
+
+- aaaaa = nama chain yang diberikan melalui Chanel Telegram, dan untuk mendapatkannya harus FCFS sesuai dengan jadwal yang diberikan.
+
+- bbbbb = Token yang didapat dari Bot Telegram thepowerio
