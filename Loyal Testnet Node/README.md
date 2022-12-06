@@ -32,10 +32,14 @@ https://docs.joinloyal.io/validators/run-a-loyal-validator
 wget -O loyal.sh https://raw.githubusercontent.com/SaujanaOK/Node-TestNet-Guide/main/Loyal%20Testnet%20Node/loyal.sh && chmod +x loyal.sh && ./loyal.sh
 ```
 
-### Langkah-Langkah Pasca-Instalasi
+##  Langkah-Langkah Pasca-Instalasi
 
-Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah berikut untuk memeriksa status sinkronisasi.
+Saat instalasi selesai, silakan muat variabel ke dalam sistem
+```
+source $HOME/.bash_profile
+```
 
+Selanjutnya Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah di bawah ini untuk memeriksa status sinkronisasi
 ```
 loyald status 2>&1 | jq .SyncInfo
 ```
