@@ -1,8 +1,8 @@
 # Menghubungkan Repo di Github dengan Gitopia
 
-## Official Docs
+## [Official Docs]
 
-{% embed url="https://docs.gitopia.com/mirror" %}
+(https://docs.gitopia.com/mirror)
 
 <mark style="color:red;"><mark style="color:orange;"><mark style="color:green;">**Pastikan sudah memiliki akun GitHub**<mark style="color:green;"><mark style="color:orange;"></mark>
 
