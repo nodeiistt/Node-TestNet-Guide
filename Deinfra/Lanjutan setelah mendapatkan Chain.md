@@ -61,7 +61,7 @@ source $HOME/.bashrc
 
 Catatan : EMAILKAMU - isi dengan emailmu lalu
 
-# Restart System dengan tanpa close terminal
+#### Restart System dengan tanpa close terminal
 
 untuk Ubuntu 20 :
 ```sudo systemctl restart sshd```
