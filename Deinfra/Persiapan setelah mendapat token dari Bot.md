@@ -36,3 +36,6 @@ docker pull thepowerio/tpnode
 
 <mark style="color:blue;">**Note**</mark>: Baru bisa mulai setelah mendapat Chain Token dari mereka
 
+##Catatan tambahan :
+Saat rebutan, ada baiknya jalankan di screen, karna untuk menunggu proses minum teh 100% harus saling menunggu dengan peserta lain, jadi kadang proses menuju 100% agak lama.
+
