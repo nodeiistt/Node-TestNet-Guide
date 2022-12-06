@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img height="150" height="auto" src="https://user-images.githubusercontent.com/108946833/188787002-658bf009-a004-447d-979d-cf57e07b1ba1.jpg">
 </p>
@@ -24,9 +21,6 @@
 ```console
 wget -O source.sh https://raw.githubusercontent.com/xsons/TestnetNode/main/Source/source.sh && chmod +x source.sh && ./source.sh
 ```
-Opsi 2 (manual)
-
-Anda dapat mengikuti [panduan manual](https://github.com/xsons/TestnetNode/blob/main/Source/Manual.md) jika Anda lebih suka mengatur node secara manual
 
 ## Pasca Instalasi
 Selanjutnya Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah di bawah ini untuk memeriksa status sinkronisasi
@@ -224,3 +218,6 @@ sudo rm $HOME/.source* -rf
 sudo rm $HOME/source -rf
 sed -i '/SRC_/d' ~/.bash_profile
 ```
+
+## Source :
+https://github.com/xsons/testnet_node/tree/main/Source
