@@ -84,7 +84,7 @@ echo 'export SRC_VALOPER_ADDRESS='${SRC_VALOPER_ADDRESS} >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
 Dapatkan Token Faucet Di Discord
->- [Discord Official Source](https://discord.gg/MgcfAgrD)
+>- [Discord Official Source](DC : https://discord.gg/6Nd246SR5t)
 
 Untuk memeriksa saldo dompet Anda:
 ```console
