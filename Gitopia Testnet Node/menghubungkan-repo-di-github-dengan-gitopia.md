@@ -1,6 +1,6 @@
 # Menghubungkan Repo di Github dengan Gitopia
 
-## [Official Docs]
+[Official Docs]
 
 (https://docs.gitopia.com/mirror)
 
