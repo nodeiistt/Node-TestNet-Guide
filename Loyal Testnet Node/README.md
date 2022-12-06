@@ -89,16 +89,19 @@ Jika Anda tidak dapat melihat saldo di dompet, simpul Anda mungkin masih disinkr
 ## Membuat Validator:
 ```
 loyald tx staking create-validator \
-  --amount 8000000ulyl \
-  --from ISI ADDRESS KALIAN \
-  --min-self-delegation "1" \
-  --commission-max-rate "0.2" \
-  --commission-max-change-rate "0.07" \
-  --commission-rate "0.07" \
-  --pubkey  $(loyald tendermint show-validator) \
-  --moniker ISI NAMA NODE KALIAN \
-  --chain-id $LYL_ID \
-  --gas-prices 1ulyl
+--amount 1000000ulyl \
+--from $LYL_WALLET \
+--identity ABOGOBOGAAEZAKMI \
+--website "https://t.me/BeritaCryptoo" \
+--details="Apa yang sedang Anda pikirkan" \
+--commission-max-change-rate "0.01" \
+--commission-max-rate "0.2" \
+--commission-rate "0.08" \
+--min-self-delegation "1" \
+--pubkey $(loyald tendermint show-validator) \
+--moniker $LYL_NODENAME \
+--fees 5000ulyl \
+--chain-id loyal-1
 ```
 
 ## Perintah yang Berguna
