@@ -10,6 +10,11 @@ Install the latest version of Rust using rustup. Run the following line:
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+
+#### To configure your current shell, run:
+```
+source "$HOME/.cargo/env"
+```
 Accept default options by pressing Enter or customize if you need to.
 
 Log out and log in again to finish the installation, or follow the instructions by rustup.
