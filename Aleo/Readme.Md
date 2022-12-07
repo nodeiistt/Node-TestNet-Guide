@@ -45,3 +45,8 @@ Screen -S Aleo
 ```
 cargo run --release -- -a aleo1your_address_here -p pool.hamp.app:4444
 ```
+
+#### Note :
+Change aleo1your_address_here with your aleo address..
+
+Good Luck..
