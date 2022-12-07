@@ -108,6 +108,8 @@ To create your validator run command below
 gitopiad tx staking create-validator \
   --amount 1000000utlore \
   --from $WALLET \
+  --identity ABOGOBOGAAEZAKMI \
+  --website "https://t.me/BeritaCryptoo" \
   --commission-max-change-rate "0.01" \
   --commission-max-rate "0.2" \
   --commission-rate "0.07" \
